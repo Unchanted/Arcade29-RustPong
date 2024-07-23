@@ -2,7 +2,6 @@
 name = "pong"
 version = "0.1.0"
 edition = "2021"
-authors = ["Cyprien Borée <cyprien.boree@tuta.io>"]
 
 [dependencies]
 sdl2 = "0.35.2"
